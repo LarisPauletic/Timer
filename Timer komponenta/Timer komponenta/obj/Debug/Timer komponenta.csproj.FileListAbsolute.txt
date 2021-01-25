@@ -1,0 +1,10 @@
+C:\Users\Laris\source\repos\Timer komponenta\Timer komponenta\bin\Debug\Timer komponenta.exe.config
+C:\Users\Laris\source\repos\Timer komponenta\Timer komponenta\bin\Debug\Timer komponenta.exe
+C:\Users\Laris\source\repos\Timer komponenta\Timer komponenta\bin\Debug\Timer komponenta.pdb
+C:\Users\Laris\source\repos\Timer komponenta\Timer komponenta\obj\Debug\Timer komponenta.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\Timer komponenta\Timer komponenta\obj\Debug\Timer_komponenta.Form1.resources
+C:\Users\Laris\source\repos\Timer komponenta\Timer komponenta\obj\Debug\Timer_komponenta.Properties.Resources.resources
+C:\Users\Laris\source\repos\Timer komponenta\Timer komponenta\obj\Debug\Timer komponenta.csproj.GenerateResource.cache
+C:\Users\Laris\source\repos\Timer komponenta\Timer komponenta\obj\Debug\Timer komponenta.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\Timer komponenta\Timer komponenta\obj\Debug\Timer komponenta.exe
+C:\Users\Laris\source\repos\Timer komponenta\Timer komponenta\obj\Debug\Timer komponenta.pdb
